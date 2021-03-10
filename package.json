@@ -12,6 +12,6 @@
     "bip39": "^3.0.2",
     "ethereumjs-util": "^7.0.1",
     "ethereumjs-wallet": "^0.6.3",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   }
 }
